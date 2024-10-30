@@ -3,7 +3,7 @@
 import java.util.List;
 
 public class Course {
-    Integer id;
     String title;
+    Integer id;
     List<Theme> theme;
 }

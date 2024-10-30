@@ -1,8 +1,8 @@
 ﻿package org.example;
 
 public class Part_of_Theme {
-    Integer id;
     String name;
+    Integer id;
     Integer max_point;
 
     public Part_of_Theme(Integer max_point, String name, Integer id) {
