@@ -9,5 +9,5 @@ public class Theme {
     List<Part_of_Theme> exercises;
     List<Part_of_Theme> activity_on_pairs;
     List<Part_of_Theme> practices;
-
+    String s;
 }
