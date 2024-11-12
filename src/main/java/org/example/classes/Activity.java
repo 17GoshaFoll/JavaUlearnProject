@@ -1,4 +1,4 @@
-﻿package org.example;
+package org.example.classes;
 
 public class Activity {
     Integer percent_of_activity;
