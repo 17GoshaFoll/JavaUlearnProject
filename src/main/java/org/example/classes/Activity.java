@@ -1,6 +1,6 @@
-﻿package org.example;
+package org.example.classes;
 
 public class Activity {
-    Integer point_of_activity;
     Integer percent_of_activity;
+    Integer point_of_activity;
 }
